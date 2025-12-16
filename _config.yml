@@ -1,9 +1,9 @@
 # --------------------------------------------------
 #  BASIC SITE INFO
 # --------------------------------------------------
-title: Hanlin Cai   # Main site title (appears in browser tab & RSS)
-tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.  # Optional short tagline, used by some layouts
-description: Here is personal website of Hanlin Cai, PhD Student at the University of Cambridge.  # Strongly recommended for SEO & social cards
+title: Ziteng Gao   # Main site title (appears in browser tab & RSS)
+tagline: Here is personal website of Ziteng Gao. Powered by Jekyll, based on the Minimal Mistakes theme.  # Optional short tagline, used by some layouts
+description: Here is personal website of Ziteng Gao, a potential PhD Student at Harbin Institute of Technology (Shenzhen).  # Strongly recommended for SEO & social cards
 
 # TIP ── For local development you can comment out `url`
 # and build with relative paths. In production you want this set.
@@ -13,22 +13,22 @@ url: https://caihanlin.com
 #  AUTHOR / PROFILE DATA
 # --------------------------------------------------
 owner:
-  name: Hanlin Cai
-  avatar: hanlin.jpg
+  name: Ziteng Gao
+  avatar: ziteng1.jpg
   # bio: Dream big, stay positive, work hard, and enjoy the journey.
-  email: hc663@cam.ac.uk
+  email: e1010863@u.nus.edu
   # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: lancecai2002
-  github: GuangLun2000
-  linkedin: hanlincai
-  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
-  researchgate: https://www.researchgate.net/profile/Hanlin-Cai
-  zhihu: https://www.zhihu.com/people/chlire
-  xiaohongshu: 5c27848f0000000005030c6f
-  instagram: lancecai2002
-  bilibili: 594030035
+#  twitter: lancecai2002
+  github: https://github.com/MichaelGaoZT
+  linkedin: https://www.linkedin.com/in/ziteng-gao-356698247/
+#  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
+#  researchgate: https://www.researchgate.net/profile/Hanlin-Cai
+#  zhihu: https://www.zhihu.com/people/chlire
+#  xiaohongshu: 5c27848f0000000005030c6f
+#  instagram: lancecai2002
+#  bilibili: 594030035
   # facebook: caihanlin2002
   # lastfm:
   # tumblr:
@@ -49,12 +49,12 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: About Me
     url: /
-  - title: Publications
-    url: /publications/
-  - title: Services
-    url: /services/
-  - title: Awards
-    url: /awards/
+#  - title: Publications
+#    url: /publications/
+#  - title: Services
+#    url: /services/
+#  - title: Awards
+#    url: /awards/
   - title: Hobbies
     url: /hobbies/
   - title: Blogs
