@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src=".\images\ziteng1.JPG">
+<img src=".\images\ziteng1.JPG" class="floatpic">
 
 
 Here is **Ziteng Gao** [(Michael, 高紫腾)](https://www.eng.cam.ac.uk/profiles/hc663).<br>

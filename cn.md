@@ -1,12 +1,14 @@
 ---
 layout: page
 permalink: /cn/index.html
-title: 蔡汉霖的个人主页
+title: 高紫腾的个人主页
 ---
 
 ## 关于我
 
 [//]: # (<img src="https://caihanlin.com/backup/caihalin&#40;2025&#41;.PNG" class="floatpic">)
+<img src="https://caihanlin.com/backup/caihalin(2025).PNG" class="floatpic">
+
 
 <br>首先感谢您的阅读。我是高紫腾。
 
