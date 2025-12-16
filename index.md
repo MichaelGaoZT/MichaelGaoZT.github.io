@@ -4,10 +4,10 @@ layout: page
 
 # About Me
 
-<img src=".\images\ziteng1.JPG" class="floatpic">
+<img src="https://michaelgaozt.github.io/images/ziteng1.JPG" class="floatpic">
 
 
-Here is **Ziteng Gao** [(Michael, 高紫腾)](https://www.eng.cam.ac.uk/profiles/hc663).<br>
+Here is **Ziteng Gao** [(Michael, 高紫腾)].<br>
 
 I am currently a first-year Ph.D. student at Harbin Institute of Technology Shenzhen(HITSZ), majored in computer science, where I am fortunate to be supervised by [Prof. Shuo Yang](https://shuoyang-1998.github.io/).
 

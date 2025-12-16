@@ -7,7 +7,7 @@ description: Here is personal website of Ziteng Gao, a potential PhD Student at 
 
 # TIP ── For local development you can comment out `url`
 # and build with relative paths. In production you want this set.
-url: https://caihanlin.com
+url: https://michaelgaozt.github.io/
 
 # --------------------------------------------------
 #  AUTHOR / PROFILE DATA
@@ -17,7 +17,7 @@ owner:
   avatar: ziteng1.jpg
   # bio: Dream big, stay positive, work hard, and enjoy the journey.
   email: e1010863@u.nus.edu
-  # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
+  cv: https://caihanlin.com/file/ZitengGao_CV.pdf
 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
 #  twitter: lancecai2002
@@ -48,7 +48,7 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 # --------------------------------------------------
 links:
   - title: About Me
-    url: /
+    url: /https://michaelgaozt.github.io/
 #  - title: Publications
 #    url: /publications/
 #  - title: Services
