@@ -9,9 +9,9 @@ title: Hobbies
 ## Badminton
 
 <div class="third">
-<img src="./images/badminton1.JPG">
-<img src="./images/badminton2.JPG">
-<img src="./images/badminton3.JPG">
+<img src="https://michaelgaozt.github.io/images/badminton1.JPG">
+<img src="https://michaelgaozt.github.io/images/badminton2.JPG">
+<img src="https://michaelgaozt.github.io/images/badminton3.JPG">
 </div>
 Badminton is an intense competitive sport which needs  combination of skill and ability, through which I have gained joy, friendship, health, and strengthened my resilience.
 
