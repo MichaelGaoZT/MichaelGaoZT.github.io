@@ -30,9 +30,32 @@ I am always open to academic discussions and potential collaborations. Please fe
 
 ---
 
+## Experience
+### Career
+- [Xpeng Moters](https://www.xpeng.com/?fromNav=1https://www.xpeng.com/?fromNav=1)
+  - Autonomous Driving Algorithm Engineer (MLE), Autonomous Driving Center
+  - Design and optimize Xplanner(XPENG Motors self-developed planning model)
+  - IL-pretrain, SFT, RLFT
+- [Starj.ai](https://starjourneyai.com/pages/EN_shouye/EN_shouye.html)
+  - Intern Planning Algorithm Engineer
+  
+### Education
+- National University of Singapore (NUS)
+  - MS, Mechanical Engineering Singapore, Jul 2022 - Sep 2023
+- Harbin Institute of Technology (HIT)
+  - B.Eng. Mechatronic Engineering Harbin,  Aug 2018 - Jun 2022
+- NUS (Suzhou) Research Institute (NUSRI) Sep 2021 - Jun 2022
+  - A educational collaboration by NUS and HIT,Sep 2021 - Jun 2022
+- University of Pennsylvania (UPenn)
+  - Exchange Student，Jan 2019 - Feb 2019
+
+
+---
+
 ## News and Updates
 
-- **Feb 2026**: Very excited to start my Ph.D. journey at HITSZ!
+[//]: # (- **Feb 2026**: Very excited to start my Ph.D. journey at HITSZ!)
+- **Jan 2026**: I have just ended my 2-year MLE journey at XPeng Motors, which is an amazing and fruitful experience.
 
 [//]: # (- **Jan 2026**：Excited to receive an Honorary Mention Award in the 2025 IEEE ComSoc Student Competition!)
 
