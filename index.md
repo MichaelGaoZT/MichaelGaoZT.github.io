@@ -11,9 +11,9 @@ Here is **Ziteng Gao** [(Michael, 高紫腾)].<br>
 
 I am currently a first-year Ph.D. student at Harbin Institute of Technology Shenzhen(HITSZ), majored in computer science, where I am fortunate to be supervised by [Prof. Shuo Yang](https://shuoyang-1998.github.io/).
 
-Before joining HITSZ, I was a MLE at XPENG Motors, focused on autonomous driving, including End-to-End, imitation learning, reinforcement learning, and supervied fine-tune(SFT).
+Before joining HITSZ, I was a MLE at XPENG Motors, focused on end-to-end autonomous driving algorithms, including imitation learning, reinforcement learning, for pretrain, SFT, and RLFT.
 
-More prior, I got my MSc degree in Mechanical Engineering from National University of Singapore(NUS), and received my B.Eng. degree in Mechatronics from Harbin Institute of Technology(HIT).
+More prior, I got my MS degree in Mechanical Engineering from National University of Singapore(NUS), and received my B.Eng. degree in Mechatronics from Harbin Institute of Technology(HIT).
 
 
 I am always open to academic discussions and potential collaborations. Please feel free to reach out to me at **e1010863 [at] u.nus.edu**
@@ -41,13 +41,14 @@ I am always open to academic discussions and potential collaborations. Please fe
   
 ### Education
 - National University of Singapore (NUS)
-  - MS, Mechanical Engineering Singapore, Jul 2022 - Sep 2023
+  - <span style="color: #888888;">Singapore, Jul 2022 - Sep 2023</span>
+  - MS, Mechanical Engineering, Singapore, Jul 2022 - Sep 2023
 - Harbin Institute of Technology (HIT)
-  - B.Eng. Mechatronic Engineering Harbin,  Aug 2018 - Jun 2022
-- NUS (Suzhou) Research Institute (NUSRI) Sep 2021 - Jun 2022
-  - A educational collaboration by NUS and HIT,Sep 2021 - Jun 2022
+  - B.Eng. Mechatronic Engineering, Harbin, Aug 2018 - Jun 2022
+- NUS (Suzhou) Research Institute (NUSRI)
+  - A educational collaboration by NUS and HIT, Suzhou, Sep 2021 - Jun 2022
 - University of Pennsylvania (UPenn)
-  - Exchange Student，Jan 2019 - Feb 2019
+  - Exchange Student, Philadelphia, Jan 2019 - Feb 2019
 
 
 ---

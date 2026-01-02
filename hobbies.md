@@ -13,9 +13,9 @@ title: Hobbies
 <img src="https://michaelgaozt.github.io/images/badminton2.jpg">
 <img src="https://michaelgaozt.github.io/images/badminton3.jpg">
 </div>
-Badminton is an intense competitive sport which needs  combination of skill and ability, through which I have gained joy, friendship, health, and strengthened my resilience.
-
 I am honored to be selected as a member of badminton team of Harbin Institute of Technology (HIT), where I trained under the guidance of [Prof. Chen Jin](https://en.wikipedia.org/wiki/Chen_Jin_(badminton)), former world champion and now professor at HIT.
+
+Badminton is an intense competitive sport which needs  combination of skill and ability, through which I have gained joy, friendship, health, and strengthened my resilience.
 
 [//]: # (## Sharing)
 
