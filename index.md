@@ -7,7 +7,7 @@ layout: page
 <img src="https://michaelgaozt.github.io/images/ziteng1.JPG" class="floatpic">
 
 
-Here is **Ziteng Gao** [(Michael, 高紫腾)].<br>
+Here is **Ziteng Gao** (Michael, 高紫腾).<br>
 
 I am currently a first-year Ph.D. student at Harbin Institute of Technology Shenzhen(HITSZ), majored in computer science, where I am fortunate to be supervised by [Prof. Shuo Yang](https://shuoyang-1998.github.io/).
 
@@ -32,23 +32,22 @@ I am always open to academic discussions and potential collaborations. Please fe
 
 ## Experience
 ### Career
-- [Xpeng Moters](https://www.xpeng.com/?fromNav=1https://www.xpeng.com/?fromNav=1)
+- [Xpeng Moters](https://www.xpeng.com/?fromNav=1https://www.xpeng.com/?fromNav=1), <span style="color: #888888;">Guangzhou, China, Dec 2023 - Feb 2026</span>
   - Autonomous Driving Algorithm Engineer (MLE), Autonomous Driving Center
   - Design and optimize Xplanner(XPENG Motors self-developed planning model)
   - IL-pretrain, SFT, RLFT
-- [Starj.ai](https://starjourneyai.com/pages/EN_shouye/EN_shouye.html)
+- [Starj.ai](https://starjourneyai.com/pages/EN_shouye/EN_shouye.html), <span style="color: #888888;">Guangzhou, China, Sep 2023 - Dec 2023</span>
   - Intern Planning Algorithm Engineer
   
 ### Education
-- National University of Singapore (NUS)
-  - <span style="color: #888888;">Singapore, Jul 2022 - Sep 2023</span>
-  - MS, Mechanical Engineering, Singapore, Jul 2022 - Sep 2023
-- Harbin Institute of Technology (HIT)
-  - B.Eng. Mechatronic Engineering, Harbin, Aug 2018 - Jun 2022
-- NUS (Suzhou) Research Institute (NUSRI)
-  - A educational collaboration by NUS and HIT, Suzhou, Sep 2021 - Jun 2022
-- University of Pennsylvania (UPenn)
-  - Exchange Student, Philadelphia, Jan 2019 - Feb 2019
+- National University of Singapore (NUS), <span style="color: #888888;">Singapore, Jul 2022 - Sep 2023</span>
+  - MS, Mechanical Engineering
+- Harbin Institute of Technology (HIT), <span style="color: #888888;">Harbin, China, Aug 2018 - Jun 2022</span>
+  - B.Eng. Mechatronic Engineering
+- NUS (Suzhou) Research Institute (NUSRI), <span style="color: #888888;">Suzhou, China, Sep 2021 - Jun 2022</span>
+  - A educational collaboration by NUS and HIT
+- University of Pennsylvania (UPenn), <span style="color: #888888;">Philadelphia, USA, Jan 2019 - Feb 2019</span>
+  - Exchange Student
 
 
 ---
